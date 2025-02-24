@@ -36,7 +36,7 @@ public class spamOrHamWithTraining {
              */
             Builder format = CSVFormat.Builder.create(CSVFormat.DEFAULT);
             File file = new File(
-                    "C:\\Users\\rose0\\OneDrive\\Desktop\\CSE_SW\\workspace\\SpamChecker\\src\\main\\resources\\spam.csv");
+                    "SpamChecker\\src\\main\\resources\\spam.csv");
 
             CSVParser csv = CSVParser.parse(new FileReader(file), format.get());
             SpamChecking p = new SpamChecking("Spam", "Ham");
