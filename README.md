@@ -38,3 +38,5 @@ Download this [*doc folder*](https://github.com/Jackrose320/SpamChecker/tree/mas
 For support, email rose.1775@buckeyemail.osu.edu or message me on github.
 
 [My Twitter](http://twitter.com/@__ra4__)
+
+<footer>MIT License - Public Domain</footer>
